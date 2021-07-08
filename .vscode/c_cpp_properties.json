@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/nashit/ROS_Learning/practice_ros_ws/devel/include/**",
+        "/home/nashit/ros_course2_ws/devel/include/**",
+        "/home/nashit/udemyCourse_ws/devel/include/**",
+        "/home/nashit/tutorial_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/nashit/tutorial_ws/src/ros_essentials_cpp/include/**",
+        "/home/nashit/ROS_Learning/practice_ros_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/nashit/ROS_Learning/practice_ros_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/nashit/ROS_Learning/practice_ros_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
