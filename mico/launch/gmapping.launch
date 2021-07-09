@@ -30,4 +30,5 @@
       base_frame: robot_footprint
     </rosparam>
   </node>
+
 </launch>
