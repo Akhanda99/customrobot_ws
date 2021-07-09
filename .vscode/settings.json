@@ -5,5 +5,12 @@
         "/home/nashit/udemyCourse_ws/devel/lib/python2.7/dist-packages",
         "/home/nashit/tutorial_ws/devel/lib/python2.7/dist-packages",
         "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/nashit/ROS_Learning/practice_ros_ws/devel/lib/python2.7/dist-packages",
+        "/home/nashit/ros_course2_ws/devel/lib/python2.7/dist-packages",
+        "/home/nashit/udemyCourse_ws/devel/lib/python2.7/dist-packages",
+        "/home/nashit/tutorial_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
     ]
 }
